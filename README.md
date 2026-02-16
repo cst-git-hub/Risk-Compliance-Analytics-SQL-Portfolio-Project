@@ -26,3 +26,7 @@ Missing data is handled explicitly to avoid invalid risk scores.
 ## Output
 The final query produces a ranked list of entities based on their calculated risk score,
 supporting risk-based audit and compliance decision-making.
+
+## Supporting material
+- [SQL queries]
+- [Query execution screenshots]
